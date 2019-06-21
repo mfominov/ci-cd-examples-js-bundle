@@ -1,0 +1,22 @@
+{
+  "name": "ci-cd-examples-js-bundle",
+  "version": "1.0.0",
+  "description": "ci-cd-examples-js-bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mfominov/ci-cd-examples-js-bundle.git"
+  },
+  "keywords": [
+    "ci-cd-examples-js-bundle"
+  ],
+  "author": "Maksim Fominov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfominov/ci-cd-examples-js-bundle/issues"
+  },
+  "homepage": "https://github.com/mfominov/ci-cd-examples-js-bundle#readme"
+}

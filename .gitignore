@@ -1,0 +1,8 @@
+__MACOSX/
+.idea/
+.vscode/
+node_modules/
+public/
+build/
+apps/
+package-lock.json
