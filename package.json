@@ -1,6 +1,6 @@
 {
   "name": "ci-cd-examples-js-bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ci-cd-examples-js-bundle",
   "main": "index.js",
   "scripts": {
